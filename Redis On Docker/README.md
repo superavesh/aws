@@ -35,4 +35,4 @@ docker run -it --rm --name redis --net redis -v ${PWD}/config:/etc/redis/ -v red
 ```
 
 ## Redis Replication and High Availability
-Lets move on to the [clustering]() secion.
+Lets move on to the [clustering](https://github.com/superavesh/aws/blob/1ff77668454e91bb6dfb0d9f2df807f115272e6c/Redis%20On%20Docker/Clustering/README.md) secion.
