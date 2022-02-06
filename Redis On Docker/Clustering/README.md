@@ -64,7 +64,7 @@ redis-cli -h 127.0.0.1 -p 8083
 
 ```
 
-## Example Application
+## Additional Info
 
 Run example application in video, to show application writing to the master
 
